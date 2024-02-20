@@ -1,0 +1,28 @@
+span {
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background: rgb(27, 27, 27);
+}
+
+h1 {
+    font-size: 90px;
+    text-align: center;
+    color: blue;
+}
+
+.color {
+    color: white;
+}
+
+.Korea img {
+    clip-path: circle(160px);
+    height: auto;
+    width: 30%;
+}
+
+a {
+    color: blue;
+    font-size: 30px;
+}

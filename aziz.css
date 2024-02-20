@@ -1,0 +1,65 @@
+body {
+    background: black;
+}
+
+.header {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    padding: 15px;
+
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+
+span {
+    color: blue;
+    font-size: 36px;
+}
+
+.website {
+
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    margin-right: auto;
+
+
+
+}
+
+.element {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+
+}
+
+.links {
+    text-align: end;
+
+}
+
+.element a {
+    color: blue;
+    font-size: 35px;
+
+    margin-right: 20px;
+
+}
+
+h2 {
+    color: white
+}
+
+.Aziz__picture img {
+    clip-path: circle(100px);
+    height: auto;
+    width: 15%;
+}

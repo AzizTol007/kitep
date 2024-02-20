@@ -1,0 +1,35 @@
+body {
+    background: rgb(27, 27, 27);
+}
+
+.name {
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+span {
+    color: blue;
+
+}
+
+.kit {
+    font-size: 100;
+    color: white;
+}
+
+.myself {
+
+    clip-path: circle(45%);
+    height: 80;
+
+
+}
+
+a {
+    color: blue;
+    font-size: 30px;
+}
